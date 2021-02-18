@@ -13,6 +13,14 @@ namespace VAT
         return temp;
     }
 
+    string createstr(string a, int count)
+    {
+        string temp;
+        for(int i = 0 ; i <count;i++)
+        temp = temp + a;
+        return temp;
+    }
+
 }; // namespace VAT
 
 #endif
