@@ -3,7 +3,7 @@
 #include <boost/asio.hpp>
 
 using namespace std;
-using namespace VAT;
+using namespace NAM;
 using namespace boost;
 
 #define errormayhappen                                 \
