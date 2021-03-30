@@ -4,7 +4,7 @@
 
 using namespace boost;
 using namespace std;
-using namespace VAT;
+using namespace NAM;
 
 #define errormayhappen                                     \
     if (ec.value())                                        \
