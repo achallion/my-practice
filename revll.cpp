@@ -107,6 +107,16 @@ void revpq(list &l, int p, int q)
     next->next = temp;
 }
 
+void revkele(list &l, int k)
+{
+    node *temp = l.front;
+    int len = 1;
+    while (temp != NULL)
+    {
+        if(len < )
+    }
+}
+
 int main()
 {
     list l;
